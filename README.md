@@ -37,3 +37,6 @@ This project is a relational database system for an e-commerce platform. It mana
  <br>
  ## query output 
  ![query result](query.png)
+ <br>
+ ##revanue 
+ ![revanue](revanue.png)

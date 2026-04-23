@@ -33,7 +33,7 @@ This project is a relational database system for an e-commerce platform. It mana
  ##Screenshots##
  <br>
  #user table 
- ![user table](images/users.png)
+ ![user table](users.png)
  <br>
  ## query output 
- ![query result](images/query.png)
+ ![query result](query.png)

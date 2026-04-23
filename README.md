@@ -31,7 +31,9 @@ This project is a relational database system for an e-commerce platform. It mana
 3. Execute queries.sql
 
  ##Screenshots##
+ <br>
  #user table 
  ![user table](images/users.png)
- ## qery output 
+ <br>
+ ## query output 
  ![query result](images/query.png)

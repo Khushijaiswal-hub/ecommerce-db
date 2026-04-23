@@ -42,5 +42,5 @@ This project is a relational database system for an e-commerce platform. It mana
  ![revanue](revanue.png)
  <br>
  ##ER-diagram
- ![ER-diagram](er-diagram.png)
+ ![ER-diagram](er-diagram..png)
  
